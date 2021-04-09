@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c23d243.chunk.css",
+    "main.js": "/static/js/main.a8fb47b2.chunk.js",
+    "main.js.map": "/static/js/main.a8fb47b2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.40f62d5a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.40f62d5a.js.map",
+    "static/js/2.6d8a8ef3.chunk.js": "/static/js/2.6d8a8ef3.chunk.js",
+    "static/js/2.6d8a8ef3.chunk.js.map": "/static/js/2.6d8a8ef3.chunk.js.map",
+    "static/js/3.70e6c953.chunk.js": "/static/js/3.70e6c953.chunk.js",
+    "static/js/3.70e6c953.chunk.js.map": "/static/js/3.70e6c953.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9c23d243.chunk.css.map": "/static/css/main.9c23d243.chunk.css.map",
+    "static/js/2.6d8a8ef3.chunk.js.LICENSE.txt": "/static/js/2.6d8a8ef3.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/NunitoSans-Regular.87d92665.ttf",
+    "static/media/check.a0e667b1.png": "/static/media/check.a0e667b1.png",
+    "static/media/doctors.1504ff6c.png": "/static/media/doctors.1504ff6c.png",
+    "static/media/icons.10463e96.png": "/static/media/icons.10463e96.png",
+    "static/media/mirror.119980c8.png": "/static/media/mirror.119980c8.png",
+    "static/media/question.60ab21ee.png": "/static/media/question.60ab21ee.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40f62d5a.js",
+    "static/js/2.6d8a8ef3.chunk.js",
+    "static/css/main.9c23d243.chunk.css",
+    "static/js/main.a8fb47b2.chunk.js"
+  ]
+}
